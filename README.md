@@ -36,7 +36,7 @@ Soy un desarrollador de software enfocado en el área de **Frontend**, apasionad
 
 <div align="center">
 
-  ### 📱 VentasApp
+  ### 📱 [VentasApp](https://github.com/NinjaCodeX12/VentasApp)
   *Aplicación móvil interactiva desarrollada para la gestión dinámica de transacciones y optimización del flujo de ventas.*
 
   <img alt="Estado" src="https://img.shields.io/badge/Status-En%20Desarrollo-orange?style=flat-square"/>
@@ -46,14 +46,14 @@ Soy un desarrollador de software enfocado en el área de **Frontend**, apasionad
   <br />
   <br />
 
-  <!-- Espacio para capturas de tu App Móvil (Coloca tus capturas en tu carpeta local para enlazarlas aquí) -->
+  <!-- Tabla para las capturas de pantalla de tu celular -->
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://via.placeholder.com/220x440.png?text=VentasApp+Login" alt="VentasApp Vista 1" width="200" style="border-radius: 10px; margin: 5px;" />
+        <img src="LoginVentasApp.png" alt="VentasApp Vista 1" width="200" style="border-radius: 10px; margin: 5px;" />
       </td>
       <td>
-        <img src="https://via.placeholder.com/220x440.png?text=VentasApp+Dashboard" alt="VentasApp Vista 2" width="200" style="border-radius: 10px; margin: 5px;" />
+        <img src="DashBoardVentasApp.png" alt="VentasApp Vista 2" width="185" style="border-radius: 10px; margin: 5px;" />
       </td>
     </tr>
   </table>
@@ -64,7 +64,7 @@ Soy un desarrollador de software enfocado en el área de **Frontend**, apasionad
 
 <div align="center">
 
-  ### 💻 VetCare S.A.C.
+  ### 💻 [VetCare S.A.C.](https://github.com/NinjaCodeX12/VetCare.git)
   *Sistema integral de gestión y control de inventarios desarrollado para la automatización de procesos en negocios veterinarios.*
 
   <img alt="Estado" src="https://img.shields.io/badge/Status-Completado-green?style=flat-square"/>
@@ -74,7 +74,7 @@ Soy un desarrollador de software enfocado en el área de **Frontend**, apasionad
   <br />
   <br />
 
-  <!-- Espacio para el Dashboard de VetCare -->
-  <img src="https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/libft-dark.png" alt="Dashboard VetCare" width="100%" style="border-radius: 6px;" />
+  <!-- Captura de pantalla de tu dashboard de VetCare -->
+  <img src="DashboardVetCare.png" alt="Dashboard VetCare" width="100%" style="border-radius: 6px;" />
 
 </div>
