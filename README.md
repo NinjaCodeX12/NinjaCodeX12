@@ -1,4 +1,5 @@
 # ¡Hola, soy Julio Gabriel Apaza Navarro! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=239120&center=false&vCenter=false&width=435&lines=Frontend+Developer;UI%2FUX+Specialist;React+Native+Developer" alt="Typing SVG" />
 <p align="center">
   <!-- Banner desde tu carpeta local (Asegúrate de mover banner.png a esta carpeta) -->
   <img src="banner.png" alt="Julio Gabriel Apaza Navarro - Frontend Developer" width="100%" style="border-radius: 6px;" />
