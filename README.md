@@ -21,7 +21,7 @@ Soy un desarrollador de software enfocado en el área de **Frontend**, apasionad
 
 * 💼 **LinkedIn:** [linkedin.com/in/julio-gabriel-apaza-navarro-963742402](https://www.linkedin.com/in/julio-gabriel-apaza-navarro-963742402) — Conecta conmigo profesionalmente.
 * 📬 **Correo Electrónico:** [julioapaza274@gmail.com](mailto:julioapaza274@gmail.com) — Escríbeme para proyectos Frontend o colaboraciones.
-* 🚀 **Portafolio:** [Enlace de tu Portafolio](https://github.com/tu-usuario) — ¡Próximamente disponible! Reemplaza este enlace cuando lo crees.
+* 🚀 **Portafolio:** [Haz clic aquí para ver mi portafolio](https://ninjacodex12.github.io/Portafolio-Profesional/)
 
 ---
 
